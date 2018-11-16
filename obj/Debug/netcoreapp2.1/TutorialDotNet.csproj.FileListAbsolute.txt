@@ -30,3 +30,4 @@ C:\TutorialDotNet\obj\Debug\netcoreapp2.1\TutorialDotNet.Views.pdb
 C:\TutorialDotNet\obj\Debug\netcoreapp2.1\TutorialDotNet.dll
 C:\TutorialDotNet\obj\Debug\netcoreapp2.1\TutorialDotNet.pdb
 C:\TutorialDotNet\obj\Debug\netcoreapp2.1\TutorialDotNet.csproj.CopyComplete
+C:\TutorialDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
